@@ -1,0 +1,87 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+#brand-name{
+    padding-left: 50px;
+}
+.box{
+    transition: 0.3s;
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+.box:hover{
+    transform: scale(1);
+    opacity: 1;
+}
+.box h2{
+    transition: 0.5s;
+}
+.box:hover h2{
+  color : rgb(170, 11, 11);
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+.logo img{
+    width: 75%;
+}
+.logo h2{
+    display: none;
+}
+
+#form-ubah{
+    margin-top: 20vh;
+  }
+  #catalog-section{
+      overflow: hidden;
+  }
+  .box-carousel{
+      height: 75vh;
+      width:100vw;
+      margin-top: 17vh;
+  }
+
+  @media (min-width: 767.98px) {
+    #form-ubah{
+      width: 70%;
+      margin: auto;
+      margin-top: 25vh;
+    }
+    .box-carousel{
+        height: 75vh;
+        width:75vw;
+        margin-top: 17vh;
+    }
+  }
+  @media (min-width: 991.98px) {
+    #form-ubah{
+      width: 60%;
+      margin: auto;
+      margin-top: 25vh;
+    }
+    .nav-item{
+        padding-left: 20px;
+    }
+    #brand-name{
+        padding-left: 0;
+    }
+    .logo img{
+        width: 30%;
+    }
+    .logo h2{
+        display: inline;
+    }
+    .box-carousel{
+        height: 75vh;
+        width: 60vw;
+        margin-top: 17vh;
+    }
+  }
