@@ -11,6 +11,12 @@ A professional **company profile website** for **RoMaX**, built using **HTML**, 
 
 ---
 
+## 📸 Preview
+
+![RoMaX Website Preview](Romax_preview.jpeg)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3  
