@@ -14,6 +14,7 @@ A professional **company profile website** for **RoMaX**, built using **HTML**, 
 ## 📸 Preview
 
 ![RoMaX Website Preview](Romax_preview.jpeg)
+![RoMaX Website Preview](Romax_preview2.jpeg)
 
 ---
 
